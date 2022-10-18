@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+@media (min-width: 576px) { 
+    body{
+        background: #8e44ad;
+    }
+}
+
+
+@media (min-width: 768px) { 
+    body{
+        background: #2a16c6;
+    }
+}
+
+
+@media (min-width: 992px) { 
+    body{
+        background: #620707;
+    }
+}
+
+@media (min-width: 1200px) { 
+    body{
+        background: #107005;
+    }
+}
+
+
+@media (min-width: 1400px) { 
+    body{
+        background: #076d5c;
